@@ -1,6 +1,4 @@
-## Tim Liu
-## TCSS 142
-## Charles Bryan
+## Erwin Lara / Remixed
 
 import random
 
